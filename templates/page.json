@@ -1,1 +1,116 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "2a4aceba-8599-4e64-b875-48a2e8ff1d6e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20858253017395__2a4aceba-8599-4e64-b875-48a2e8ff1d6e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20858253017395__2a4aceba-8599-4e64-b875-48a2e8ff1d6e-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "99d0f899-d0df-4f78-8fb6-fa4989ef6bcc": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{{ page.title }}",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "7ca002e4-9989-45f1-ab2c-6b3dbd5b3650": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20858253017395__7ca002e4-9989-45f1-ab2c-6b3dbd5b3650-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20858253017395__7ca002e4-9989-45f1-ab2c-6b3dbd5b3650-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "52ca64be-6e68-4c31-bebf-cd75848213be": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "642abbcd-a315-40b2-b523-ac223c72e51e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20858253017395__642abbcd-a315-40b2-b523-ac223c72e51e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--20858253017395__642abbcd-a315-40b2-b523-ac223c72e51e-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c0a3e820-ed22-4e26-9aaa-dc532a1adb67": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2a4aceba-8599-4e64-b875-48a2e8ff1d6e",
+    "99d0f899-d0df-4f78-8fb6-fa4989ef6bcc",
+    "7ca002e4-9989-45f1-ab2c-6b3dbd5b3650",
+    "52ca64be-6e68-4c31-bebf-cd75848213be",
+    "642abbcd-a315-40b2-b523-ac223c72e51e",
+    "c0a3e820-ed22-4e26-9aaa-dc532a1adb67"
+  ]
+}
