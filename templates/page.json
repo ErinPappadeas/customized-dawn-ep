@@ -97,7 +97,7 @@
     "c0a3e820-ed22-4e26-9aaa-dc532a1adb67": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "{{ 'hello world' | capitalize }}",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
