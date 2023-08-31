@@ -10,7 +10,9 @@
     "fafcf419-b003-4e87-9e12-85b145a4bed3": {
       "type": "liquid-reference",
       "settings": {
-        "liquid-ref": "Liquid Reference"
+        "liquid-ref": "Liquid Reference",
+        "liquid-checkbox": false,
+        "liquid-number": 16
       }
     },
     "2a4aceba-8599-4e64-b875-48a2e8ff1d6e": {
