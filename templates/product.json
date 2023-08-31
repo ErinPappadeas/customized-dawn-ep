@@ -34,7 +34,7 @@
         "2fff3263-1282-495c-a364-445da9fb5ff1": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<label for=\"message\" class=\"form__label\">Message:<\/label>\n<textarea id=\"message\" placeholder=\"\" name=\"properties[Message]\" form=\"product-form-{{section.id}}\" class=\"text-area field-input\"><\/textarea>\n<\/div>"
+            "custom_liquid": "<textarea id=\"message\" placeholder=\"Message\" name=\"properties[Message]\" form=\"product-form-{{section.id}}\" class=\"text-area field-input\"><\/textarea>"
           }
         },
         "buy_buttons": {
