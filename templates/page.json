@@ -65,7 +65,7 @@
     "52ca64be-6e68-4c31-bebf-cd75848213be": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "{% if page.title == 'Liquid' %}\n\nYes, the title is liquid\n\n{% endif %}",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
