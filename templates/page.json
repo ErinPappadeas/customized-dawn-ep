@@ -12,7 +12,8 @@
       "settings": {
         "liquid-ref": "Liquid Reference",
         "liquid-checkbox": false,
-        "liquid-number": 16
+        "liquid-number": 16,
+        "liquid-radio": "option-1"
       }
     },
     "2a4aceba-8599-4e64-b875-48a2e8ff1d6e": {
