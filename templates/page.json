@@ -71,6 +71,15 @@
         "padding_bottom": 52
       }
     },
+    "c173083a-387f-44af-9c3f-d80366ac7141": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% unless page.title == 'Liquid' %}\n     The page title is not liquid\n{% endunless %}",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "642abbcd-a315-40b2-b523-ac223c72e51e": {
       "type": "rich-text",
       "blocks": {
@@ -110,6 +119,7 @@
     "99d0f899-d0df-4f78-8fb6-fa4989ef6bcc",
     "7ca002e4-9989-45f1-ab2c-6b3dbd5b3650",
     "52ca64be-6e68-4c31-bebf-cd75848213be",
+    "c173083a-387f-44af-9c3f-d80366ac7141",
     "642abbcd-a315-40b2-b523-ac223c72e51e",
     "c0a3e820-ed22-4e26-9aaa-dc532a1adb67"
   ]
